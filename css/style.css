@@ -6,7 +6,15 @@
 
 .container1 {
     background-color: rgb(204, 79, 230);
-    height: 10%;
+    height: 200px;
     width: 90%;
     margin: 20px auto;
 }
+
+.container2 {
+    background-color: rgb(236, 187, 95);
+    height: 600px;
+    width: 90%;
+    margin: 20px auto;
+}
+
