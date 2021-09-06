@@ -4,3 +4,9 @@
     box-sizing: border-box;
 }
 
+.container1 {
+    background-color: rgb(204, 79, 230);
+    height: 10%;
+    width: 90%;
+    margin: 20px auto;
+}
